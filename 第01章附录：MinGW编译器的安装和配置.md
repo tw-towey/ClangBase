@@ -91,7 +91,7 @@ MinGW（Minimalist GNU on Windows）实际上是GCC在Windows平台上的移植�
 
 1）依次 `右击计算机（我的电脑） -> 属性 -> 高级系统设置 -> 环境变量`，例如我将其安装到了C:\MinGW文件夹中，因此 PATH 环境变量的设置如下：
 
-<img src="images/image-20230822181721360.png" alt="image-20230822181721360" style="zoom:67%;" />
+![](images/image-20230822181721360.png)
 
 ![image-20230822181849566](images/image-20230822181849566.png)
 
@@ -220,10 +220,9 @@ MinGW（Minimalist GNU on Windows）实际上是GCC在Windows平台上的移植�
 
 1）依次 `右击计算机（我的电脑） -> 属性 -> 高级系统设置 -> 环境变量`，例如我将其安装到了C:\MinGW文件夹中，因此 PATH 环境变量的设置如下：
 
-<img src="images/image-20230822181721360.png" alt="image-20230822181721360" style="zoom:67%;" />
+![](images/image-20230822181721360.png)
 
 ![image-20230822181849566](images/image-20230822181849566.png)
-
 
 
 2）打开命令行窗口（通过在搜索栏中执行 cmd 指令即可），输入`gcc -v`指令，如果输出 GCC 编译器的具体信息，则表示安装成功，例如：

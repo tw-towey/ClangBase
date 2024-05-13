@@ -8,7 +8,7 @@
 
 CLion，是 JetBrains (https://www.jetbrains.com/)公司的产品，该公司成立于2000年，总部位于捷克的布拉格，致力于为开发者打造最高效智能的开发工具。
 
-<img src="images/1692692710108.png" alt="1692692710108" style="zoom:80%;" />
+![](images/1692692710108.png)
 
 公司旗下的各种产品：
 
@@ -87,23 +87,23 @@ https://www.jetbrains.com.cn/clion/features/
 
 9、选择“Do not import settings”，点击“OK”按钮
 
-<img src="images/1692686365691.png" alt="1692686365691" style="zoom:80%;" />
+![](images/1692686365691.png)
 
 10、如图所示，需要激活CLion
 
-<img src="images/1692686434862.png" alt="1692686434862" style="zoom: 80%;" />
+![](images/1692686434862.png)
 
 ### 2.3 注册
 
 - 选择1：适用30天。在CLion版本中，需要先登录，才能开启试用。
 
-  <img src="images/1692686513431.png" alt="1692686513431" style="zoom:80%;" />
+  ![](images/1692686513431.png)
 
 - 选择2：付费购买旗舰版
 
-  <img src="images/1692686556166.png" alt="1692686556166" style="zoom:80%;" />
+  ![](images/1692686556166.png)
 
-  <img src="images/1692686590056.png" alt="1692686590056" style="zoom: 67%;" />
+  ![](images/1692686590056.png)
 
 - 选择3：（推荐）
 
@@ -116,29 +116,29 @@ https://www.jetbrains.com.cn/clion/features/
 
 选择"New Project"：
 
-<img src="images/1692686679397.png" alt="1692686679397" style="zoom:80%;" />
+![](images/1692686679397.png)
 
 指定创建C可执行文件、工程目录，图中的“untitled1”需要修改为自己的工程名称。如下所示：
 
-<img src="images/1692687949240.png" alt="1692687949240" style="zoom:80%;" />
+![](images/1692687949240.png)
 
 选择C可执行文件，修改工程名称为demo1
 
-<img src="images/1692687854607.png" alt="1692687854607" style="zoom:80%;" />
+![](images/1692687854607.png)
 
 点击“Create”进行下一步，如图所示
 
-<img src="images/1692688033686.png" alt="1692688033686" style="zoom:80%;" />
+![](images/1692688033686.png)
 
 此处选择编译器，默认MinGW即可，点击“OK”按钮，如图所示，默认创建了main.c文件。
 
-<img src="images/1692688090496.png" alt="1692688090496" style="zoom:67%;" />
+![](images/1692688090496.png)
 
 ### 3.2 运行
 
 点击执行按钮，如下所示
 
-<img src="images/1692688278731.png" alt="1692688278731" style="zoom: 67%;" />
+![](images/1692688278731.png)
 
 
 
@@ -334,15 +334,15 @@ int main() {
 
 #### 1、已知快捷键操作名，未知快捷键
 
-<img src="images/1692752261713.png" alt="1692752261713" style="zoom:80%;" />
+![](images/1692752261713.png)
 
 #### 2、已知快捷键，不知道对应的操作名
 
-<img src="images/1692752357783.png" alt="1692752357783" style="zoom: 70%;" />
+![](images/1692752357783.png)
 
 ### 6.3 自定义快捷键
 
-<img src="images/1692752523743.png" alt="1692752523743" style="zoom:80%;" />
+![](images/1692752523743.png)
 
 
 
